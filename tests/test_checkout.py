@@ -1,10 +1,9 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import time
 
-from login_page import LoginPage
-from products_page import ProductsPage
+from pages.login_page import LoginPage
+from pages.products_page import ProductsPage
 
 
 def test_checkout(setup):

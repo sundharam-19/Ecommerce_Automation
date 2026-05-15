@@ -1,6 +1,6 @@
-from login_page import LoginPage
-from products_page import ProductsPage
-from cart_page import CartPage
+from pages.login_page import LoginPage
+from pages.products_page import ProductsPage
+from pages.cart_page import CartPage
 
 def test_cart_operations(setup):
 

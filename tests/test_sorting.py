@@ -1,5 +1,5 @@
-from login_page import LoginPage
-from products_page import ProductsPage
+from pages.login_page import LoginPage
+from pages.products_page import ProductsPage
 
 def test_sorting(setup):
 

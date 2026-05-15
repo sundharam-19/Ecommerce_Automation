@@ -1,7 +1,7 @@
 import pytest
 import time
 
-from login_page import LoginPage
+from pages.login_page import LoginPage
 
 
 @pytest.mark.parametrize(
