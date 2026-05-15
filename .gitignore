@@ -4,3 +4,5 @@ __pycache__/
 allure-report/
 reports/
 *.pyc
+*.zip
+.idea/
