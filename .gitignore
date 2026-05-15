@@ -2,7 +2,6 @@ venv/
 .venv/
 __pycache__/
 allure-report/
-reports/
 *.pyc
 *.zip
 .idea/
