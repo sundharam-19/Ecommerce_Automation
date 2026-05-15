@@ -112,7 +112,7 @@ Installation
 
 Clone the Repository
 
-git clone <repository-url>
+git clone https://github.com/sundharam-19/Ecommerce_Automation.git
 
 Navigate to Project Directory
 
